@@ -1,0 +1,7 @@
+*** Tue Mar 14 20:21:14 CDT 2017 ***
+/Users/esilva/Show
+mv The Beverly Hillbillies-1x01 - The Clampetts Strike Oil.avi S01E01 - The Clampetts Strike Oil.avi
+mv The Beverly Hillbillies-1x02 - Getting Settled.avi S01E02 - Getting Settled.avi
+mv The Beverly Hillbillies-1x03 - Meanwhile, Back At The Cabin.avi S01E03 - Meanwhile, Back At The Cabin.avi
+mv The Beverly Hillbillies-1x04 - The Clampetts Meet Mrs. Drysdale.avi S01E04 - The Clampetts Meet Mrs. Drysdale.avi
+mv The Beverly Hillbillies-1x05 - Jed Buys Stock.avi S01E05 - Jed Buys Stock.avi
